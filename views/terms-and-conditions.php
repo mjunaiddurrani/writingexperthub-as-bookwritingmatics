@@ -27,7 +27,7 @@
 
                         <p><strong>Descriptor</strong></p>
                         <p><span>Please note that the descriptor on your billing statement will be
-                                “8883639727writingexpert”</span></p>
+                                “8885952005writingexpert”</span></p>
 
                         <p><strong>Definition of Terms</strong></p>
                         <p><span>“Website” means all online content on www.writingexpertshub.com website pages.</span>

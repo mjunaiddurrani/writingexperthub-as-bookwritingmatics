@@ -231,7 +231,7 @@ data-src="assets/images/gpartner.png">
                     </div>
                     <div class="col-md-12">
                         <div class="btnwrp">
-                            <a class="btn-2" href="tel:+1 888-595-20057">+1 888-595-2005</a>
+                            <a class="btn-2" href="tel:+1 888-595-2005">+1 888-595-2005</a>
                         </div>
                     </div>
                 </div>
@@ -920,7 +920,7 @@ them very professional and extremely polite. Highly satisfied!”</p>
                                 console.log(token);
                             }
                             </script>
-                            <form id="fomm" action="/leads/" method="post">
+                            <form id="fomm" action="thank-you/" method="post">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="lablewrp">
@@ -934,7 +934,7 @@ them very professional and extremely polite. Highly satisfied!”</p>
                                                 required>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-12">
                                         <div class="lablewrp">
                                             <input type="number" id="phone-coun" name="phone" style="padding-left: 80px"
                                                 placeholder="Phone number" onkeyup="noAlphabet(this)"
@@ -942,31 +942,7 @@ them very professional and extremely polite. Highly satisfied!”</p>
 
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
-                                        <div class="lablewrp">
-                                            <select name="extra[service]" id="packages" class="valid safari_only"
-                                                aria-invalid="false" required>
-                                                <option value="" pack="0">Interested In</option>
-                                                <optgroup>
-                                                    <option value="Content Writing" pack="0" class="colr">Content
-                                                        Writing
-                                                    </option>
-                                                    <option value="Publishin" pack="0" class="colr">Publishing</option>
-                                                    <option value="Editing" pack="0" class="colr">Editing</option>
-                                                    <option value="Proofreading" pack="0" class="colr">Proofreading
-                                                    </option>
-                                                    <option value="Book Cover Design" pack="0" class="colr">Book Cover
-                                                        Design</option>
-                                                    <option value="Illustration Design" pack="0" class="colr">
-                                                        Illustration Design</option>
-                                                    <option value="Book Marketing" pack="0" class="colr">Book Marketing
-                                                    </option>
-                                                    <option value="Script Writing" pack="0" class="colr">Script Writing
-                                                    </option>
-                                                </optgroup>
-                                            </select>
-                                        </div>
-                                    </div>
+                                    
                                     <div class="col-md-12">
                                         <div class="lablewrp">
                                             <textarea name="brief" placeholder="Enter Message here" required></textarea>
@@ -1011,7 +987,7 @@ the rest of the world. A different set of skills is required to create a
 fascinating and thought-provoking storyline for the book that will hold
 the interest of the reader. Or, maybe, you're under pressure to fulfill
 a deadline and lack the resources to do the task yourself. Book Writing
-Matics
+Hub
 can help you with this.</h4>
 </div>
 </div>

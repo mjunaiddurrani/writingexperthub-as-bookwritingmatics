@@ -30,7 +30,9 @@
                                 below. Please contact <a href="#">support@writingexpertshub.com</a> with any ongoing
                                 Order-related questions.</p>
                                 <p><strong>Descriptor</strong></p>
-               <p><span>Please note that the descriptor on your billing statement will be “8883639727writingexpert”</span></p>
+               <p><span>Please note that the descriptor on your billing statement will be “8885952005writingexpert”</span></p>
+               <p><strong>Note :</strong></p>
+               <p><span>It may take up to 24-48 business hours after purchase to be contacted by our team</span></p>
 
                         </div>
                     </div>
@@ -64,7 +66,7 @@
                             <h2 class="main-heading">The importance of stories cannot be emphasized. writing experts hub
                                 can assist you in telling your story.</h2>
                             <p class="main-pera">We put all of our heart and soul into what we write. Book Writing
-                                Matics helps you turn your ideas into a well-organized book.</p>
+                                Hub helps you turn your ideas into a well-organized book.</p>
                             <ul>
                                 <li>Diverse packages for all budgets and requirements.</li>
                                 <li>Ownership and acclaim of your book with you.</li>
@@ -88,7 +90,7 @@
                             </div>
                             <div class="cntct-form formwrp">
 
-                                <form id="fomm" action="/leads/" method="post">
+                                <form id="fomm" action="thank-you/" method="post">
                                     <div class="row">
                                         <div class="col-md-6">
 
