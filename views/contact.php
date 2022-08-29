@@ -108,7 +108,7 @@
                                             <div class="lablewrp">
                                                 <!--<input type="" name="phone" style="padding-left: 80px"placeholder="Phone number" required>-->
                                                 <select name="countryCode" id="countryCode">
-                                                    <option data-countrycode="GB" value="44">UK (+44)</option>
+                                                    <!-- <option data-countrycode="GB" value="44">UK (+44)</option> -->
                                                     <option data-countrycode="US" value="1">USA (+1)</option>
                                                     <optgroup label="Other countries">
                                                         <option data-countrycode="DZ" value="213">Algeria (+213)
