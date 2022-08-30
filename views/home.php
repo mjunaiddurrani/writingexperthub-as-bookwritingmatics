@@ -231,7 +231,7 @@ data-src="assets/images/gpartner.png">
                     </div>
                     <div class="col-md-12">
                         <div class="btnwrp">
-                            <a class="btn-2" href="tel:+18883639727">+1 (888) 3639727</a>
+                            <a class="btn-2" href="tel:+1 888-595-20057">+1 888-595-2005</a>
                         </div>
                     </div>
                 </div>

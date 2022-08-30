@@ -26,10 +26,10 @@
                         
 
                         <li>
-                            <a class="emailwrp" href="tel:++18883639727"> <img src="assets/images/usflag.webp">+1 (888) 3639727<span>(Support)</span></a>
+                            <a class="emailwrp" href="tel:+1 888-595-20057"> <img src="assets/images/usflag.webp">+1 888-595-2005<span>(Support)</span></a>
                         </li>
                         <!-- <li>
-                            <a class="emailwrp" href="tel:+18883639727"><img src="assets/images/usflag.webp">+1
+                            <a class="emailwrp" href="tel:+1 888-595-20057"><img src="assets/images/usflag.webp">+1
                                 917 858 7529 <span>(Sales)</span></a>
                         </li> -->
                         <!-- <div class="flgwrp">
