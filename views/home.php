@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-
+<meta name="keywords" content="Writing Experts Hub">
 <?php include_once("includes/head.php")?>
 
 <body class="hompg home-pg">
