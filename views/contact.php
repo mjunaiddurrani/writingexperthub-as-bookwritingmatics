@@ -24,13 +24,15 @@
                     <div class="col-md-8">
                         <div class="txtwrp">
                             <h4>Contact</h4>
-                            <h2 class="main-heading">Do you want to know more about how our products and services might
-                                benefit your company? Please get in touch with us as soon as possible.</h2>
-                            <p class="main-pera">We will get back to you as soon as possible once you submit the form
-                                below. Please contact <a href="#">support@writingexpertshub.com</a> with any ongoing
-                                Order-related questions.</p>
+                            <h2 class="main-heading">Interested in knowing how our writing services can help You? </h2>
+                            <p class="main-pera">Please fill out and submit the form below to help us understand Your needs. We will get back to You as soon as possible. <a href="#">support@writingexpertshub.com</a> with any ongoing
+                                </p>
+                                <p>If You have any queries related to any ongoing order, contact support@writingexpertshub.com </p>
                                 <p><strong>Descriptor</strong></p>
-               <p><span>Please note that the descriptor on your billing statement will be “8883639727writingexpert”</span></p>
+               <p><span>Please note that the descriptor on Your billing statement will be ‘’8885952005writingexpert’’</span></p>
+               <p>Note:
+It may take up to 24-48 business hours after purchase to be contacted by our team. 
+</p>
 
                         </div>
                     </div>
@@ -43,10 +45,9 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="txtwrp">
-                            <h2 class="main-heading">No one can ignore the impact of what we have to say. With the pen,
-                                the most powerful tool, we enable you to express your ideas and make a difference in the
-                                world. The whole world is eagerly awaiting the release of your magnificent masterpiece.
+                            <h2 class="main-heading">Create an impact through words and contribute Your part to making the world a better place. 
                             </h2>
+                            <p>Get In Touch With Us </p>
                         </div>
                     </div>
                 </div>
@@ -61,14 +62,13 @@
                             <img src="assets/images/investment-opportunity.png">
                         </div>
                         <div class="txtwrp">
-                            <h2 class="main-heading">The importance of stories cannot be emphasized. writing experts hub
-                                can assist you in telling your story.</h2>
-                            <p class="main-pera">We put all of our heart and soul into what we write. Book Writing
-                                Matics helps you turn your ideas into a well-organized book.</p>
+                            <h2 class="main-heading">Tell Your Story Effectively, So the World Listens. </h2>
+                            <p class="main-pera">Sharing Your story is heartfelt, mind-engaging work. It is an easy job, said no one ever! You need someone who understands the importance of your story and helps carve Your message effectively. This is where the Writing Expert Hub comes in. </p>
+                            <p>Our interaction with words on a daily basis has strengthened our communication skills. Our thoughts flow, and ideas pour onto the page without any fears or limitations, which of course, helps us deliver Your idea to a wider audience with effectiveness. This synchronized connection between mind and heart is what You need to complete Your book. </p>
                             <ul>
-                                <li>Diverse packages for all budgets and requirements.</li>
-                                <li>Ownership and acclaim of your book with you.</li>
-                                <li>Timely delivery.</li>
+                                <li>Wide-range of pricing plans to meet Your requirements </li>
+                                <li>Complete ownership rights with no royalty charges </li>
+                                <li>High-quality deliverable on time. </li>
                             </ul>
 
                         </div>

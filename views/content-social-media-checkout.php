@@ -656,7 +656,7 @@
                         <div class="pack-wrap bg-white p-3 mt-44 rounded">
                                         <div class="hdarea">
                                             <h4>$17.99</h4>
-                                            <h3>Content Social Media</h3>
+                                            <h3>Social Media Content</h3>
 
 
                                         </div>
@@ -668,24 +668,15 @@
                                                     <div id="mCSB_1_container" class="mCSB_container"
                                                         style="position: relative; top: 0px; left: 0px;" dir="ltr">
                                                         <li>
-                                                            1 Post
+                                                        1 Post of 100 words
                                                         </li>
                                                         <li>
-                                                            Post writer
+                                                       2 Revisions                                                        </li>
+                                                        <li>
+                                                        Following the Exact instructions
                                                         </li>
                                                         <li>
-                                                            100 Words Per Post
-                                                        </li>
-                                                        <li>
-                                                            2 Revisions
-                                                        </li>
-                                                        <li>
-                                                            According To Your Exact
-                                                            Requirements
-                                                        </li>
-                                                        <li>
-                                                            Proofing by our in-house
-                                                            experts
+                                                        Proofreading by in-house experts
                                                         </li>
                                                     </div>
                                                     <div id="mCSB_1_scrollbar_vertical"

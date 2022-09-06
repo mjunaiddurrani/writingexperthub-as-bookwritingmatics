@@ -27,7 +27,7 @@
 
                         <p><strong>Descriptor</strong></p>
                         <p><span>Please note that the descriptor on your billing statement will be
-                                “8883639727writingexpert”</span></p>
+                        "8885952005writingexpert"</span></p>
 
                         <p><strong>Definition of Terms</strong></p>
                         <p><span>“Website” means all online content on www.writingexpertshub.com website pages.</span>
@@ -35,7 +35,7 @@
                         <p><span>“Customer,” “You,” or “Yours” mean and refer to you and/or any other person submitting
                                 an order to www.writingexpertshub.com on your behalf.</span></p>
                         <p><span>“Company,” “We,” or “Our” mean and refer to www.writingexpertshub.com, a company
-                                registered under the laws of Massachusetts.</span></p>
+                                registered under the laws of Texas.</span></p>
                         <p><span>“Product” means and refers to all services and products provided by
                                 www.writingexpertshub.com to Customer in accordance with his/her Order.</span></p>
                         <p><span>“Order” means an order via phone or e-mail made by Customer to purchase services or

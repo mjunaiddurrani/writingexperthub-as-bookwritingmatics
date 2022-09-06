@@ -22,9 +22,8 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-10">
                         <div class="txtwrp">
-                            <h1>Every Story, Every Idea in Every Format! – Etching Masterpieces & Producing Best
-                                Sellers! – writing experts hub </h1>
-                            <p>Your story deserves an audience – Hire Professional writing experts hub Today!</p>
+                            <h1>Your Story Deserves a Professional Attention–Writing Experts Hub.</h1>
+                            <p>Whether writing to impress or writing for success, You don’t have to make all the difficult choices alone. Get help in Your creative loneliness and etch Your masterpiece! </p>
                         </div>
                         <!-- <div class="formwrp">
 <form data-animation="fadeInUp" action="/leads/" method="post" data-delay="2.4s"
@@ -207,25 +206,24 @@ data-src="assets/images/gpartner.png">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="wdthwrp">
-                            <h2 class="main-heading">Are you in the middle of a writer’s block? What are the usual
-                                factors to slow down book writing?</h2>
-                            <p class="main-pera">There might be a wide array factors preventing you from achieving your
-                                goal. </p>
+                            <h2 class="main-heading">Writer’s Block is Real.</h2>
+                            <p class="main-pera">There are many factors that may slow down Your writing process. Knowing them geared You towards finding the right solutions.  </p>
                         </div>
                     </div>
                     <div class="col-lg-12">
                         <div class="txtwrp">
                             <ul>
-                                <li>Writer's Block</li>
-                                <li>Creative block</li>
-                                <li>Busy Schedules</li>
-                                <li>Lack of motivation</li>
+                                <li>Lack of Time </li>
+                                <li>Tiredness</li>
+                                <li>Anxiety</li>
+                                <li>Growing competition </li>
                                 <li>Lack of productivity</li>
-                                <li>Increasing competition</li>
-                                <li>Financial constraints</li>
-                                <li>Rejected Manuscript</li>
+                                <li>Fear of rejection </li>
+                                <li>Lack of motivation </li>
+                                <li>Perfectionism </li>
                                 <li>Perfectionism</li>
-                                <li>Stress</li>
+                                <li>Busy Life</li>
+                                <li>Financial constraints </li>
                             </ul>
                         </div>
                     </div>
@@ -259,12 +257,9 @@ data-src="assets/images/gpartner.png">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="txtwrp">
-                            <h2 class="main-heading">Combining Excellence with Experience – Hire writing experts hub
-                                Today!
+                            <h2 class="main-heading">Combining Creativity with Experience –Hire Writing Experts Today! 
                             </h2>
-                            <p class="main-pera">At writing experts hub, our team of professional individuals ensure the
-                                quality they provide resonates with <a onclick="setButtonURL();" href="javascript:;">the
-                                    author’s expectations and tonality. </a></p>
+                            <p class="main-pera">Meeting the author’s expectations and enabling a unique voice during content curation is our special mix that makes You popular among Your audience.  </a></p>
                         </div>
                     </div>
                 </div>
@@ -278,9 +273,8 @@ data-src="assets/images/gpartner.png">
                         <div class="col-lg-12">
                             <div class="txtwrp">
                                 <h4 class="sub-head">Packages</h4>
-                                <h2 class="main-heading">Affordable and Flexible Content Writing Packages</h2>
-                                <p class="main-pera">Offering customers worldwide a diverse range of flexible writing
-                                    solutions at budget-friendly prices.</p>
+                                <h2 class="main-heading">Curated with Respect for Your Writing Needs</h2>
+                                <p class="main-pera">We offer a wide array of writing services at affordable prices.</p>
                             </div>
                         </div>
                     </div>
@@ -291,7 +285,7 @@ data-src="assets/images/gpartner.png">
                                     <div class="pack-wrap">
                                         <div class="hdarea">
                                             <h4>$17.99</h4>
-                                            <h3>Content Social Media</h3>
+                                            <h3>Social Media Content</h3>
                                         </div>
                                         <div class="bdarea">
                                             <ul class="list-scroll mCustomScrollbar _mCS_1">
@@ -301,24 +295,15 @@ data-src="assets/images/gpartner.png">
                                                     <div id="mCSB_1_container" class="mCSB_container"
                                                         style="position: relative; top: 0px; left: 0px;" dir="ltr">
                                                         <li>
-                                                            1 Post
+                                                        1 Post of 100 words
                                                         </li>
                                                         <li>
-                                                            Post writer
+                                                       2 Revisions                                                        </li>
+                                                        <li>
+                                                        Following the Exact instructions
                                                         </li>
                                                         <li>
-                                                            100 Words Per Post
-                                                        </li>
-                                                        <li>
-                                                            2 Revisions
-                                                        </li>
-                                                        <li>
-                                                            According To Your Exact
-                                                            Requirements
-                                                        </li>
-                                                        <li>
-                                                            Proofing by our in-house
-                                                            experts
+                                                        Proofreading by in-house experts
                                                         </li>
                                                     </div>
                                                     <div id="mCSB_1_scrollbar_vertical"
@@ -351,7 +336,7 @@ data-src="assets/images/gpartner.png">
                                         <div class="hdarea">
                                             <!--<h2>Popular</h2>-->
                                             <h4>$750 </h4>
-                                            <h3>Content <br> Starter</h3>
+                                            <h3>Beginner </h3>
                                         </div>
                                         <div class="bdarea">
                                             <ul class="list-scroll mCustomScrollbar _mCS_2">
@@ -360,27 +345,20 @@ data-src="assets/images/gpartner.png">
                                                     tabindex="0" style="max-height: none;">
                                                     <div id="mCSB_2_container" class="mCSB_container"
                                                         style="position: relative; top: 0px; left: 0px;" dir="ltr">
-                                                        <li>5 Page Professional Blog/Article writing
-                                                            Service</li>
-                                                        <li>Creative &amp; Well-Written by 1
-                                                            Professional Blog/Article writer</li>
-                                                        <li>Industry Specified Expert Blog/Article writer
+                                                        <li>5 Page Blog/Article Writing Service by Pros</li>
+                                                        <li>Original, Well-writing, Plagiarism-free content </li>
+                                                        <li>Dedicated Writer 
                                                         </li>
-                                                        <li>300 Words Per Page</li>
-                                                        <li>10 Revisions</li>
-                                                        <li>5 to 7 Business Days Rotation</li>
-                                                        <li>According To Your Exact Requirements
+                                                        <li>Each page has 300 words.</li>
+                                                        <li>10 Rewrites</li>
+                                                        <li>Rotation in 5 to 7 business days, depending on Your exact needs.</li>
+                                                        <li>Proofreading
                                                         </li>
-                                                        <li>Proofing by our in-house experts</li>
-                                                        <li>FREE Meta details – With each custom
-                                                            blog/article,<br> we will provide a catchy title, keywords
-                                                            and page
-                                                            description.</li>
-                                                        <li>SEO friendly – Your keyword(s) will be placed in the title,
-                                                            the first &amp; last paragraphs and throughout the
-                                                            blog/article in a natural and fluent manner
+                                                        <li>FREE Meta information: We will give each custom blog or article a catchy title, keywords, and a page description.</li>
+                                                        <li>SEO friendly – Your keyword(s) will be used in the title, the first and last paragraphs, and throughout the blog/article.</li>
+                                                        <li>30 Days Money-Back Guarantee
                                                         </li>
-                                                        <li>30 Days Refund Warranty</li>
+                                                        
                                                     </div>
                                                     <div id="mCSB_2_scrollbar_vertical"
                                                         class="mCSB_scrollTools mCSB_2_scrollbar mCS-light-1 mCSB_scrollTools_vertical"
@@ -410,7 +388,7 @@ data-src="assets/images/gpartner.png">
                                     <div class="pack-wrap red">
                                         <div class="hdarea">
                                             <h4>$1,499</h4>
-                                            <h3>Content <br> Professional</h3>
+                                            <h3>Professional</h3>
                                         </div>
                                         <div class="bdarea">
                                             <ul class="list-scroll mCustomScrollbar _mCS_3">
@@ -419,27 +397,17 @@ data-src="assets/images/gpartner.png">
                                                     tabindex="0" style="max-height: none;">
                                                     <div id="mCSB_3_container" class="mCSB_container"
                                                         style="position: relative; top: 0px; left: 0px;" dir="ltr">
-                                                        <li>20 Page Professional Blog/Article writing
-                                                            Service</li>
-                                                        <li>Creative &amp; Well-Written by 1
-                                                            Professional Blog/Article writer</li>
-                                                        <li>Industry Specified Expert Blog/Article writer
+                                                        <li>20-Page Blog/Article Writing Service by Pros</li>
+                                                        <li>Original and well written by a professional Blog/Article Writer </li>
+                                                        <li>300 Words Per Page, Unlimited Revisions
                                                         </li>
-                                                        <li>300 Words Per Page</li>
-                                                        <li>Unlimited Revisions</li>
-                                                        <li>7 to 8 Business Days Rotation</li>
-                                                        <li>According To Your Exact Requirements
+                                                        <li>7–8 Business Days Rotation Based On Your Specific Needs</li>
+                                                        <li>Proofreadings</li>
+                                                        <li>FREE Meta information: We will give each custom blog or article a catchy title, keywords, and a page description.</li>
+                                                        <li>SEO-friendly: Your keyword(s) will be used in the title, the first and last paragraphs, and throughout the blog/article.
                                                         </li>
-                                                        <li>Proofing by our in-house experts</li>
-                                                        <li>FREE Meta details – With each custom
-                                                            blog/article,<br> we will provide a catchy title, keywords
-                                                            and page
-                                                            description.</li>
-                                                        <li>SEO friendly – Your keyword(s) will be placed in the title,
-                                                            the first &amp; last paragraphs and throughout the
-                                                            blog/article in a natural and fluent manner
-                                                        </li>
-                                                        <li>30 Days Refund Warranty</li>
+                                                        <li>30 Days Money-Back Guarantee</li>
+                                                        
                                                     </div>
                                                     <div id="mCSB_3_scrollbar_vertical"
                                                         class="mCSB_scrollTools mCSB_3_scrollbar mCS-light-1 mCSB_scrollTools_vertical"
@@ -469,7 +437,7 @@ data-src="assets/images/gpartner.png">
                                     <div class="pack-wrap mt-5">
                                         <div class="hdarea">
                                             <h4>$2,399</h4>
-                                            <h3>Content <br> Elite</h3>
+                                            <h3>Exclusive</h3>
                                         </div>
                                         <div class="bdarea">
                                             <ul class="list-scroll mCustomScrollbar _mCS_1">
@@ -478,27 +446,17 @@ data-src="assets/images/gpartner.png">
                                                     style="max-height: none;" tabindex="0">
                                                     <div id="mCSB_1_container" class="mCSB_container"
                                                         style="position: relative; top: 0px; left: 0px;" dir="ltr">
-                                                        <li>20 Page Professional Blog/Article writing
-                                                            Service</li>
-                                                        <li>Creative &amp; Well-Written by 1
-                                                            Professional Blog/Article writer</li>
-                                                        <li>Industry Specified Expert Blog/Article writer
+                                                        <li>Pros Will Write a 20-Page Blog or Article for You</li>
+                                                        <li>Original and well-written by 1 Expert Blog/Article Writer in the Industry</li>
+                                                        <li>300 words per page and unlimited changes
                                                         </li>
-                                                        <li>600 Words Per Page</li>
-                                                        <li>Unlimited Revisions</li>
-                                                        <li>7 to 8 Business Days Rotation</li>
-                                                        <li>According To Your Exact Requirements
+                                                        <li>7–8 Business Days Rotation based on what You want.</li>
+                                                        <li>Proofreading</li>
+                                                        <li>Each custom blog post or article will have a catchy title, keywords, and a page description.</li>
+                                                        <li>SEO-friendly: Your keyword(s) will appear in the title, the first and last paragraphs, and throughout the blog/article.
                                                         </li>
-                                                        <li>Proofing by our in-house experts</li>
-                                                        <li>FREE Meta details – With each custom
-                                                            blog/article,<br> we will provide a catchy title, keywords
-                                                            and page
-                                                            description.</li>
-                                                        <li>SEO friendly – Your keyword(s) will be placed in the title,
-                                                            the first &amp; last paragraphs and throughout the
-                                                            blog/article in a natural and fluent manner
-                                                        </li>
-                                                        <li>30 Days Refund Warranty</li>
+                                                        <li>Money Back Guarantee for 30 Days</li>
+                                                        
                                                     </div>
                                                     <div id="mCSB_1_scrollbar_vertical"
                                                         class="mCSB_scrollTools mCSB_1_scrollbar mCS-light-1 mCSB_scrollTools_vertical"
@@ -527,7 +485,7 @@ data-src="assets/images/gpartner.png">
                                     <div class="pack-wrap mt-5">
                                         <div class="hdarea">
                                             <h4>CONTACT SALES</h4>
-                                            <h3>Content Custom package</h3>
+                                            <h3>Content Individual Package </h3>
                                         </div>
                                         <div class="bdarea">
                                             <ul class="list-scroll mCustomScrollbar _mCS_1">
@@ -536,15 +494,14 @@ data-src="assets/images/gpartner.png">
                                                     style="max-height: none;" tabindex="0">
                                                     <div id="mCSB_1_container" class="mCSB_container"
                                                         style="position: relative; top: 0px; left: 0px;" dir="ltr">
-                                                        <li class="first"><i class="ion-checkmark"> </i>All Features in
-                                                            Content Professional</li>
-                                                        <li><i class="ion-checkmark"> </i>Custom Blog/Article Writing
-                                                            Service</li>
-                                                        <li><i class="ion-checkmark"> </i>Customisable Content Features
+                                                        <li class="first"><i class="ion-checkmark"> </i>
+                                                        All Content Professional Features</li>
+                                                        <li><i class="ion-checkmark"> </i>Writing Service for Blogs and Articles</li>
+                                                        <li><i class="ion-checkmark"> </i>Customizable Content Features
                                                         </li>
-                                                        <li><i class="ion-checkmark"> </i>Priority support</li>
-                                                        <li class="last"><i class="ion-checkmark"> </i>Dedicated Content
-                                                            Manager</li>
+                                                        <li><i class="ion-checkmark"> </i>Priority customer support </li>
+                                                        <li class="last"><i class="ion-checkmark"> </i>Content Manager on Staff
+                                                    </li>
                                                     </div>
                                                     <div id="mCSB_1_scrollbar_vertical"
                                                         class="mCSB_scrollTools mCSB_1_scrollbar mCS-light-1 mCSB_scrollTools_vertical"
@@ -580,59 +537,44 @@ data-src="assets/images/gpartner.png">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="txtwrp">
-                            <h2 class="main-heading">Our Professional Services.</h2>
-                            <p class="main-pera">In addition to offering professional content writers and proofreaders,
-                                we
-                                also provide the following additional services:</p>
+                            <h2 class="main-heading">Our Writing Expertise</h2>
+                            <p class="main-pera">Here’s a brief introduction to our value-added professional services.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="mainerp">
-                            <h4>Contentwriting</h4>
-                            <p>Do you have a great concept but lack the time to put it into words? The solution is to
-                                use writing experts hub' Contentwriting services. Reserve your place now and get your
-                                book
-                                in the
-                                timeframe of your choice.</p>
+                            <h4>Content Writing</h4>
+                            <p>We don’t let Your brilliant idea go stale –we write Your thoughts in words with flawless grammar and heartfelt scenes. </p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="mainerp">
-                            <h4>Comprehensive Editing </h4>
-                            <p>Every best-selling book has a team of dedicated editors working behind the scenes. For a
-                                little cost, you may get comprehensive editing services and hire editors from Book
-                                Writers.</p>
+                            <h4>Expert Editing </h4>
+                            <p>Your real writing journey starts when You get Your content edited by professional editors and proofreaders. </p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="mainerp">
                             <h4>Publication and Distribution </h4>
-                            <p>Unlike Big Publishing companies, we ensure that you have full control over your work with
-                                100% royalties and we guarantee</p>
+                            <p>Apart from our flexible writing services, we offer publication and distribution services to help You become a published author. </p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="mainerp">
-                            <h4>Marketing and Publicity </h4>
-                            <p>Defining your launching tactics will need hiring the finest book marketing agency
-                                available. Using the latest marketing techniques at Global Publishing House, we ensure
-                                your book stands out from the crowd. </p>
+                            <h4>Book Marketing And Publicity   </h4>
+                            <p>Employing our innovative and trendy promotional strategies ensure Your book’s publicity and helps You get noticed by Your audience.  </p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="mainerp">
-                            <h4>Typesetting and Design </h4>
-                            <p>Make your work stand out by letting us examine it thoroughly. Our typesetting and design
-                                professionals are highly skilled.</p>
+                            <h4>Typesetting and Formatting  </h4>
+                            <p>When it comes to designing and typesetting, our talented staff ensures that Your manuscript satisfies all the formatting standards. </p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="mainerp">
-                            <h4>Premium Book Marketing </h4>
-                            <p>writing experts hub' marketers are professionals who have acquired the skills necessary
-                                to
-                                ensure that our valued customers receive exactly what they need, on time, and according
-                                to mutually agreed-upon deadlines.</p>
+                            <h4>Premium Publishing Navigation  </h4>
+                            <p>With our publishing executives by Your side, make Your self-publication journey convenient and successful. </p>
                         </div>
                     </div>
                 </div>
@@ -643,7 +585,7 @@ data-src="assets/images/gpartner.png">
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <div class="txtwrp text-left">
-                            <h2 class="main-heading">Why Choose Us? </h2>
+                            <h2 class="main-heading">Why Choose Writing Experts Hub? </h2>
                             <!-- <p class="main-pera">We do not believe in boasting, but our work speaks for itself. From each genre of Contentwriting to each service, writing experts hub has an efficient team to cater them all. </p>	 -->
                         </div>
                     </div>
@@ -659,12 +601,10 @@ data-src="assets/images/gpartner.png">
                                         <img src="assets/images/help-1.webp">
                                     </div>
                                     <div class="txtwrp divtxt">
-                                        <h4 class="main-heading">Editorial Assessments</h4>
+                                        <h4 class="main-heading">Editorial Assessment</h4>
                                         <div class="">
                                             <!-- <span class="datewrap">We seek to understand your idea and requirements and devise a plot scheme after thorough research. We seek to understand your idea and</span> -->
-                                            <p class="main-pera">Our team of book editors are experienced and skilled in
-                                                providing an in-detail assessment of the author’s idea or manuscript, to
-                                                ensure the end result is nothing less than a best seller. </p>
+                                            <p class="main-pera">The expertise of our book editors guarantees that any manuscript submitted to Amazon, Barnes, and Noble, and other publishing is free of errors and mistakes.  </p>
                                         </div>
                                     </div>
                                 </li>
@@ -673,13 +613,10 @@ data-src="assets/images/gpartner.png">
                                         <img src="assets/images/help-2.webp">
                                     </div>
                                     <div class="txtwrp divtxt">
-                                        <h4 class="main-heading">Standard Publishing Formats & Guidelines </h4>
+                                        <h4 class="main-heading">Adherence to Standard Guidelines </h4>
                                         <div class="">
                                             <!-- <span class="datewrap">Once you approve the plot outline, the bookwriter will start writing original content in line with your idea. </span> -->
-                                            <p class="main-pera">Amazon, Barnes and Nobles and several other publishing
-                                                platforms require standard formatting from margins, gutter spacings to
-                                                as little as a generated Table of contents, which require a professional
-                                                set of eyes! </p>
+                                            <p class="main-pera">We adhere to the standard formatting guidelines. We consider every minute detail, from spacing to margins, to ensure the work meets the publishing criteria. </p>
                                         </div>
                                     </div>
                                 </li>
@@ -688,13 +625,10 @@ data-src="assets/images/gpartner.png">
                                         <img src="assets/images/help-3.webp">
                                     </div>
                                     <div class="txtwrp divtxt">
-                                        <h4 class="main-heading">Contentwriting Autobiographies </h4>
+                                        <h4 class="main-heading">Content Writing Autobiographies </h4>
                                         <div class="">
                                             <!-- <span class="datewrap">Once the written part is complete, our editors peruse the whole draft multiple times for a critical review, proofreading, and corrections.</span> -->
-                                            <p class="main-pera">Our efficient team of content writers are empathetic,
-                                                which instills in them an understanding quite unique. From childhood
-                                                traumas to a motivational journey, each one of them are experienced in
-                                                crafting out a best-selling autobiography. </p>
+                                            <p class="main-pera">What makes our writers unique is their ability to empathize with Your story and channel their creative self when needed to write a best-selling autobiography. </p>
                                         </div>
                                     </div>
                                 </li>
@@ -703,13 +637,10 @@ data-src="assets/images/gpartner.png">
                                         <img src="assets/images/help-4.webp">
                                     </div>
                                     <div class="txtwrp divtxt">
-                                        <h4 class="main-heading">Contentwriting your Fiction Plot </h4>
+                                        <h4 class="main-heading">Content Writing Fiction Plot</h4>
                                         <div class="">
                                             <!-- <span class="datewrap">We seek to understand your idea and requirements and devise a plot scheme after thorough research. We seek to understand your idea and</span> -->
-                                            <p class="main-pera">Do you have an idea but are afraid of how it might not
-                                                reach the level you’ve envisioned? Let us transform your idea into a
-                                                fiction like no other. From visualizing the scenario to describing the
-                                                emotions, our content writers possess the spirits of legendary authors.
+                                            <p class="main-pera">Do You worry that Your concept will not pan out the way You hope it will? Let our creative writers articulate Your emotions through words and build an interesting plot.  
                                             </p>
                                         </div>
                                     </div>
@@ -719,12 +650,10 @@ data-src="assets/images/gpartner.png">
                                         <img src="assets/images/help-5.webp">
                                     </div>
                                     <div class="txtwrp divtxt">
-                                        <h4 class="main-heading">All Sorts of Editing </h4>
+                                        <h4 class="main-heading">Dedicated Project Manager </h4>
                                         <div class="">
                                             <!-- <span class="datewrap">Once you approve the plot outline, the bookwriter will start writing original content in line with your idea. We seek to understand your idea and</span> -->
-                                            <p class="main-pera">From developmental editing to line-by-line editing, the
-                                                dedicated project manager will ensure you and the assigned editor are on
-                                                the same page, and the end result will be the outcome you envisioned.
+                                            <p class="main-pera">Our open communication policy connects You with Your editor at every stage (from developmental to copyediting) to guarantee that the final product is exactly what You envisioned.
                                             </p>
                                         </div>
                                     </div>
@@ -766,10 +695,8 @@ data-src="assets/images/gpartner.png">
                             <div class="row">
                                 <div class="col-md-5 my-auto">
                                     <div class="txtwrp">
-                                        <h2 class="main-heading">Trouble refining the plot? Connect with the Book
-                                            Writers’ Services Today! </h2>
-                                        <p class="main-pera">Connect with our literary agents and transform your story
-                                            today. </p>
+                                        <h2 class="main-heading">All-Inclusive Writing Services  </h2>
+                                        <p class="main-pera">Writing is a demanding but valued career, but not everyone can hop on this journey. If You are good at idea generations but struggle to put them into words, You have found the ideal place. Writing Experts Hub offers full writing and publishing services from start to finish, and we go above and beyond to ensure You are delighted with the final deliverable.  </p>
                                     </div>
                                 </div>
                                 <div class="col-md-7 p-0 cta-slider">
@@ -900,13 +827,9 @@ them very professional and extremely polite. Highly satisfied!”</p>
                 <div class="row">
                     <div class="col-md-6">
                         <div class="txtwrp">
-                            <h2 class="main-heading">What sets us apart? </h2>
-                            <p class="main-pera">writing experts hub isn’t a business, it is a community of skills and
-                                experience, with talent so crafty, each project is handled with professionalism and
-                                dedication, ensuring the outcome is nothing less than the customers expectations. At
-                                writing experts hub, we transform stories and ideas into best selling books, the kind to
-                                keep
-                                the readers engaged and wanting for more! </p>
+                            <h2 class="main-heading">Every Story We Have Written, Every Idea We Have Worked On, & Every File We Have Delivered Makes Us Unique! </h2>
+                            <p class="main-pera">By combining expertise with our years of experience, we provide the best writing solution for our clients. Affordable, impressive, and engaging writing is what we promise. </p>
+                        <p>Get professional writing, editing, and proofreading services at affordable prices as per Your specifications. Call today! </p>
                         </div>
                     </div>
                     <div class="col-md-6">

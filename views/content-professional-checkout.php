@@ -660,7 +660,7 @@
                     <div class="pack-wrap green bg-white p-3 mt-44 rounded">
                         <div class="hdarea">
                             <h4>$1,499</h4>
-                            <h3>Content <br> Professional</h3>
+                            <h3>Professional</h3>
 
                         </div>
                         <div class="bdarea">
@@ -669,27 +669,16 @@
                                     tabindex="0" style="max-height: none;">
                                     <div id="mCSB_2_container" class="mCSB_container"
                                         style="position: relative; top: 0px; left: 0px;" dir="ltr">
-                                        <li>20 Page Professional Blog/Article writing
-                                            Service</li>
-                                        <li>Creative &amp; Well-Written by 1
-                                            Professional Blog/Article writer</li>
-                                        <li>Industry Specified Expert Blog/Article writer
-                                        </li>
-                                        <li>300 Words Per Page</li>
-                                        <li>Unlimited Revisions</li>
-                                        <li>7 to 8 Business Days Rotation</li>
-                                        <li>According To Your Exact Requirements
-                                        </li>
-                                        <li>Proofing by our in-house experts</li>
-                                        <li>FREE Meta details – With each custom
-                                            blog/article,<br> we will provide a catchy title, keywords
-                                            and page
-                                            description.</li>
-                                        <li>SEO friendly – Your keyword(s) will be placed in the title,
-                                            the first &amp; last paragraphs and throughout the
-                                            blog/article in a natural and fluent manner
-                                        </li>
-                                        <li>30 Days Refund Warranty</li>
+                                        <li>20-Page Blog/Article Writing Service by Pros</li>
+                                                        <li>Original and well written by a professional Blog/Article Writer </li>
+                                                        <li>300 Words Per Page, Unlimited Revisions
+                                                        </li>
+                                                        <li>7–8 Business Days Rotation Based On Your Specific Needs</li>
+                                                        <li>Proofreadings</li>
+                                                        <li>FREE Meta information: We will give each custom blog or article a catchy title, keywords, and a page description.</li>
+                                                        <li>SEO-friendly: Your keyword(s) will be used in the title, the first and last paragraphs, and throughout the blog/article.
+                                                        </li>
+                                                        <li>30 Days Money-Back Guarantee</li>
                                     </div>
                                     <div id="mCSB_2_scrollbar_vertical"
                                         class="mCSB_scrollTools mCSB_2_scrollbar mCS-light-1 mCSB_scrollTools_vertical"
