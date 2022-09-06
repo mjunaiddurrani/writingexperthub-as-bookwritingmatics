@@ -537,12 +537,12 @@
                                             <input type="email" name="email" placeholder="Email Id" required />
                                             <input type="number" name="pwd" placeholder="Phone Number" required />
                                         </div>
-                                        
+
                                         <div class="form-card">
                                             <h2 class="fs-title">Payment Information</h2>
 
-                                            
-                                            
+
+
                                             <label class="pay">Card Holder Name*</label>
                                             <input type="text" name="holdername" placeholder="" />
                                             <div class="row">
@@ -671,15 +671,18 @@
                                     <div id="mCSB_2_container" class="mCSB_container"
                                         style="position: relative; top: 0px; left: 0px;" dir="ltr">
                                         <li>Pros Will Write a 20-Page Blog or Article for You</li>
-                                                        <li>Original and well-written by 1 Expert Blog/Article Writer in the Industry</li>
-                                                        <li>300 words per page and unlimited changes
-                                                        </li>
-                                                        <li>7–8 Business Days Rotation based on what You want.</li>
-                                                        <li>Proofreading</li>
-                                                        <li>Each custom blog post or article will have a catchy title, keywords, and a page description.</li>
-                                                        <li>SEO-friendly: Your keyword(s) will appear in the title, the first and last paragraphs, and throughout the blog/article.
-                                                        </li>
-                                                        <li>Money Back Guarantee for 30 Days</li>
+                                        <li>Original and well-written by 1 Expert Blog/Article Writer in the Industry
+                                        </li>
+                                        <li>300 words per page and unlimited changes
+                                        </li>
+                                        <li>7–8 Business Days Rotation based on what You want.</li>
+                                        <li>Proofreading</li>
+                                        <li>Each custom blog post or article will have a catchy title, keywords, and a
+                                            page description.</li>
+                                        <li>SEO-friendly: Your keyword(s) will appear in the title, the first and last
+                                            paragraphs, and throughout the blog/article.
+                                        </li>
+                                        <li>Money Back Guarantee for 30 Days</li>
                                     </div>
                                     <div id="mCSB_2_scrollbar_vertical"
                                         class="mCSB_scrollTools mCSB_2_scrollbar mCS-light-1 mCSB_scrollTools_vertical"

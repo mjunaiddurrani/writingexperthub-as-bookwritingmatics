@@ -485,7 +485,8 @@
         -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
         background-color: #555;
     }
-    .mCustomScrollbar{
+
+    .mCustomScrollbar {
         height: 100%;
     }
     </style>
@@ -536,12 +537,12 @@
                                             <input type="email" name="email" placeholder="Email Id" required />
                                             <input type="number" name="pwd" placeholder="Phone Number" required />
                                         </div>
-                                        
+
                                         <div class="form-card">
                                             <h2 class="fs-title">Payment Information</h2>
 
-                                            
-                                            
+
+
                                             <label class="pay">Card Holder Name*</label>
                                             <input type="text" name="holdername" placeholder="" />
                                             <div class="row">
@@ -657,7 +658,7 @@
                 <div class="col-lg-4">
 
                     <div class="pack-wrap green bg-white p-3 mt-44 rounded">
-                    <div class="hdarea">
+                        <div class="hdarea">
                             <!--<h2>Popular</h2>-->
                             <h4>$750 </h4>
                             <h3>Beginner</h3>
@@ -670,18 +671,20 @@
                                     <div id="mCSB_2_container" class="mCSB_container"
                                         style="position: relative; top: 0px; left: 0px;" dir="ltr">
                                         <li>5 Page Blog/Article Writing Service by Pros</li>
-                                                        <li>Original, Well-writing, Plagiarism-free content </li>
-                                                        <li>Dedicated Writer 
-                                                        </li>
-                                                        <li>Each page has 300 words.</li>
-                                                        <li>10 Rewrites</li>
-                                                        <li>Rotation in 5 to 7 business days, depending on Your exact needs.</li>
-                                                        <li>Proofreading
-                                                        </li>
-                                                        <li>FREE Meta information: We will give each custom blog or article a catchy title, keywords, and a page description.</li>
-                                                        <li>SEO friendly – Your keyword(s) will be used in the title, the first and last paragraphs, and throughout the blog/article.</li>
-                                                        <li>30 Days Money-Back Guarantee
-                                                        </li>
+                                        <li>Original, Well-writing, Plagiarism-free content </li>
+                                        <li>Dedicated Writer
+                                        </li>
+                                        <li>Each page has 300 words.</li>
+                                        <li>10 Rewrites</li>
+                                        <li>Rotation in 5 to 7 business days, depending on Your exact needs.</li>
+                                        <li>Proofreading
+                                        </li>
+                                        <li>FREE Meta information: We will give each custom blog or article a catchy
+                                            title, keywords, and a page description.</li>
+                                        <li>SEO friendly – Your keyword(s) will be used in the title, the first and last
+                                            paragraphs, and throughout the blog/article.</li>
+                                        <li>30 Days Money-Back Guarantee
+                                        </li>
                                     </div>
                                     <div id="mCSB_2_scrollbar_vertical"
                                         class="mCSB_scrollTools mCSB_2_scrollbar mCS-light-1 mCSB_scrollTools_vertical"

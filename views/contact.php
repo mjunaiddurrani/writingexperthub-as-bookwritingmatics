@@ -10,7 +10,7 @@
                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB60lEQVQ4T2NkwAHePzrxf3ebL1jWp/0oA5egGiM2pVgFQQq31uj/N/ANZvj+8T3D7aNHGDwbTxNvwKtbO/9f3dLHYJ+axfDn5w+GI/NnMRhFtTEISJtjGIIh8Pv39/87ak0ZzCLiGMRUNMCufnLxDMOlrZsY3JtOMrCwsKPowTDg3tGZ/59f2sVgFRvPkO+bAzZgwsZJDEcXzWNQtIlikDGIwG3Az+9v/+9qsGOwTc1h4JeQhhswcfMUhrcP7zEcXzyXwb3xMAMbuwDcEBTTzi7P/s/M8IFB3zccbDPMBSADQODs2sUMzFwyDIah/ZgGfHt/7/+BvmAGm+RsBl4RMawGfHr5jOHowlkMjiUbGDj55MCGwE060Of1X0RZi0Hb2Q4e3eguAElc2X2A4e2DmwwOhVsRBnx6cfH/yXm5DFZxyQxcAoJ4Dfj24T3DsUVzGcwSJjLwSxkygk3ZVmv4X805gkHZRBNXwkQRv3/+NsP1nUsYvFvOMzI+PLXo/73DSxgsouIYOHj5UBRi8wJIwY8vnxlOLV/CIGcewsC4vkDhv01yLoOIoiqG7bgMACn88Owxw8HpvQyMGwqV/vs19TMwQnxDEthYW8DAeGCC3/9XN46TpBGmWEzDkoHx06dP/z9//kyWAby8vAwAcza2SBMOSCMAAAAASUVORK5CYII="
                 alt="No Script" /> Javascript is disabled. Please enable it for better working experience.</div>
     </noscript>
-    
+
     <main class="app-container">
         <!-- Mobile Navigation Button Start-->
         <div class="mobile-nav-btn"> <span class="lines"></span> </div>
@@ -25,20 +25,19 @@
                         <div class="txtwrp">
                             <h4>Contact</h4>
                             <h2 class="main-heading">Interested in knowing how our writing services can help You? </h2>
-                            <p class="main-pera">Please fill out and submit the form below to help us understand Your needs. We will get back to You as soon as possible. <a href="#">support@writingexpertshub.com</a> with any ongoing
-                                </p>
-                                <p>If You have any queries related to any ongoing order, contact support@writingexpertshub.com </p>
-                                <p><strong>Descriptor</strong></p>
-<<<<<<< HEAD
-               <p><span>Please note that the descriptor on Your billing statement will be ‘’8885952005writingexpert’’</span></p>
-               <p>Note:
-It may take up to 24-48 business hours after purchase to be contacted by our team. 
-</p>
-=======
-               <p><span>Please note that the descriptor on your billing statement will be “8885952005writingexpert”</span></p>
-               <p><strong>Note :</strong></p>
-               <p><span>It may take up to 24-48 business hours after purchase to be contacted by our team</span></p>
->>>>>>> c90ea6c38354871acb03c7a1068d4abc68d9b6f3
+                            <p class="main-pera">Please fill out and submit the form below to help us understand Your
+                                needs. We will get back to You as soon as possible. <a
+                                    href="#">support@writingexpertshub.com</a> with any ongoing
+                            </p>
+                            <p>If You have any queries related to any ongoing order, contact
+                                support@writingexpertshub.com </p>
+                            <p><strong>Descriptor</strong></p>
+                            <p><span>Please note that the descriptor on Your billing statement will be
+                                    ‘’8885952005writingexpert’’</span></p>
+                            <p>Note:
+                                It may take up to 24-48 business hours after purchase to be contacted by our team.
+                            </p>
+
 
                         </div>
                     </div>
@@ -51,7 +50,8 @@ It may take up to 24-48 business hours after purchase to be contacted by our tea
                 <div class="row">
                     <div class="col-md-12">
                         <div class="txtwrp">
-                            <h2 class="main-heading">Create an impact through words and contribute Your part to making the world a better place. 
+                            <h2 class="main-heading">Create an impact through words and contribute Your part to making
+                                the world a better place.
                             </h2>
                             <p>Get In Touch With Us </p>
                         </div>
@@ -68,21 +68,29 @@ It may take up to 24-48 business hours after purchase to be contacted by our tea
                             <img src="assets/images/investment-opportunity.png">
                         </div>
                         <div class="txtwrp">
-<<<<<<< HEAD
-                            <h2 class="main-heading">Tell Your Story Effectively, So the World Listens. </h2>
-                            <p class="main-pera">Sharing Your story is heartfelt, mind-engaging work. It is an easy job, said no one ever! You need someone who understands the importance of your story and helps carve Your message effectively. This is where the Writing Expert Hub comes in. </p>
-                            <p>Our interaction with words on a daily basis has strengthened our communication skills. Our thoughts flow, and ideas pour onto the page without any fears or limitations, which of course, helps us deliver Your idea to a wider audience with effectiveness. This synchronized connection between mind and heart is what You need to complete Your book. </p>
-=======
-                            <h2 class="main-heading">The importance of stories cannot be emphasized. writing experts hub
-                                can assist you in telling your story.</h2>
-                            <p class="main-pera">We put all of our heart and soul into what we write. Book Writing
-                                Hub helps you turn your ideas into a well-organized book.</p>
->>>>>>> c90ea6c38354871acb03c7a1068d4abc68d9b6f3
-                            <ul>
-                                <li>Wide-range of pricing plans to meet Your requirements </li>
-                                <li>Complete ownership rights with no royalty charges </li>
-                                <li>High-quality deliverable on time. </li>
-                            </ul>
+                            <<<<<<< HEAD <h2 class="main-heading">Tell Your Story Effectively, So the World Listens.
+                                </h2>
+                                <p class="main-pera">Sharing Your story is heartfelt, mind-engaging work. It is an easy
+                                    job, said no one ever! You need someone who understands the importance of your story
+                                    and helps carve Your message effectively. This is where the Writing Expert Hub comes
+                                    in. </p>
+                                <p>Our interaction with words on a daily basis has strengthened our communication
+                                    skills. Our thoughts flow, and ideas pour onto the page without any fears or
+                                    limitations, which of course, helps us deliver Your idea to a wider audience with
+                                    effectiveness. This synchronized connection between mind and heart is what You need
+                                    to complete Your book. </p>
+                                =======
+                                <h2 class="main-heading">The importance of stories cannot be emphasized. writing experts
+                                    hub
+                                    can assist you in telling your story.</h2>
+                                <p class="main-pera">We put all of our heart and soul into what we write. Book Writing
+                                    Hub helps you turn your ideas into a well-organized book.</p>
+                                >>>>>>> c90ea6c38354871acb03c7a1068d4abc68d9b6f3
+                                <ul>
+                                    <li>Wide-range of pricing plans to meet Your requirements </li>
+                                    <li>Complete ownership rights with no royalty charges </li>
+                                    <li>High-quality deliverable on time. </li>
+                                </ul>
 
                         </div>
                     </div>
@@ -470,8 +478,8 @@ It may take up to 24-48 business hours after purchase to be contacted by our tea
                                                         </option>
                                                     </optgroup>
                                                 </select>
-                                                <input type="text" name="phone" style="padding-left: 80px"id="free_cons_phone1" class=""
-                                                    placeholder="Phone*" required="">
+                                                <input type="text" name="phone" style="padding-left: 80px"
+                                                    id="free_cons_phone1" class="" placeholder="Phone*" required="">
                                             </div>
                                         </div>
                                         <div class="col-md-12">
