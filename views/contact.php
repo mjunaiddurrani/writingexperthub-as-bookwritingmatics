@@ -29,10 +29,16 @@
                                 </p>
                                 <p>If You have any queries related to any ongoing order, contact support@writingexpertshub.com </p>
                                 <p><strong>Descriptor</strong></p>
+<<<<<<< HEAD
                <p><span>Please note that the descriptor on Your billing statement will be ‘’8885952005writingexpert’’</span></p>
                <p>Note:
 It may take up to 24-48 business hours after purchase to be contacted by our team. 
 </p>
+=======
+               <p><span>Please note that the descriptor on your billing statement will be “8885952005writingexpert”</span></p>
+               <p><strong>Note :</strong></p>
+               <p><span>It may take up to 24-48 business hours after purchase to be contacted by our team</span></p>
+>>>>>>> c90ea6c38354871acb03c7a1068d4abc68d9b6f3
 
                         </div>
                     </div>
@@ -62,9 +68,16 @@ It may take up to 24-48 business hours after purchase to be contacted by our tea
                             <img src="assets/images/investment-opportunity.png">
                         </div>
                         <div class="txtwrp">
+<<<<<<< HEAD
                             <h2 class="main-heading">Tell Your Story Effectively, So the World Listens. </h2>
                             <p class="main-pera">Sharing Your story is heartfelt, mind-engaging work. It is an easy job, said no one ever! You need someone who understands the importance of your story and helps carve Your message effectively. This is where the Writing Expert Hub comes in. </p>
                             <p>Our interaction with words on a daily basis has strengthened our communication skills. Our thoughts flow, and ideas pour onto the page without any fears or limitations, which of course, helps us deliver Your idea to a wider audience with effectiveness. This synchronized connection between mind and heart is what You need to complete Your book. </p>
+=======
+                            <h2 class="main-heading">The importance of stories cannot be emphasized. writing experts hub
+                                can assist you in telling your story.</h2>
+                            <p class="main-pera">We put all of our heart and soul into what we write. Book Writing
+                                Hub helps you turn your ideas into a well-organized book.</p>
+>>>>>>> c90ea6c38354871acb03c7a1068d4abc68d9b6f3
                             <ul>
                                 <li>Wide-range of pricing plans to meet Your requirements </li>
                                 <li>Complete ownership rights with no royalty charges </li>
@@ -88,7 +101,7 @@ It may take up to 24-48 business hours after purchase to be contacted by our tea
                             </div>
                             <div class="cntct-form formwrp">
 
-                                <form id="fomm" action="/leads/" method="post">
+                                <form id="fomm" action="thank-you/" method="post">
                                     <div class="row">
                                         <div class="col-md-6">
 
@@ -106,7 +119,7 @@ It may take up to 24-48 business hours after purchase to be contacted by our tea
                                             <div class="lablewrp">
                                                 <!--<input type="" name="phone" style="padding-left: 80px"placeholder="Phone number" required>-->
                                                 <select name="countryCode" id="countryCode">
-                                                    <option data-countrycode="GB" value="44">UK (+44)</option>
+                                                    <!-- <option data-countrycode="GB" value="44">UK (+44)</option> -->
                                                     <option data-countrycode="US" value="1">USA (+1)</option>
                                                     <optgroup label="Other countries">
                                                         <option data-countrycode="DZ" value="213">Algeria (+213)

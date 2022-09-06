@@ -17,13 +17,14 @@ if (isset($_SERVER['HTTPS'])) {
 <base href="<?= $requesMet . '://' . $_SERVER['HTTP_HOST'] . '/' ?>">
 
 <head>
-    <title>Hire Professional writing experts hub & Publishers | writing experts hub</title>
-    <meta name="keywords" content="">
+    <title>Hire Professional writing experts hub & Publishers | Writing Experts Hub</title>
+    
     <meta name="description"
         content="writing experts hub help you to tell your story to the world. writing experts hub offers writing, publishing and marketing solutions for your book. ">
-
+        <meta name="google-site-verification" content="jBYSPsyx5qLy5b_n2zjVldsqJzl6r6OuX-0LRac-B8s" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="robots" content="index, follow">
     <link rel="icon" href="favicon.png" type="image/png" />
     <link href="assets/css/m-style.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/style.css" rel="stylesheet" type="text/css" />

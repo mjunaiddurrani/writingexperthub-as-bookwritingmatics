@@ -40,15 +40,15 @@
                     <li>
                                 <p style="color: #b6bde4;
     font-size: 13px;
-    transition: 1s cubic-bezier(0.51, 0.92, 0.27, 0.96) !important; padding:0px;">
-                                    -- </p>
+    transition: 1s cubic-bezier(0.51, 0.92, 0.27, 0.96) !important; padding:0px;">105 Cove Place Ct
+Montgomery TX 77356</p>
                             </li>
                             <li>
                                 <a href="javascript:;"><i class="fa fa-envelope-o"
                                         aria-hidden="true"></i>support@writingexpertshub.com</a>
                             </li>
                             <li>
-                                <a class="nmbrwrpr" href="tel:+1 888-595-20057"><i class="fa fa-phone"
+                                <a class="nmbrwrpr" href="tel:+1 888-595-2005"><i class="fa fa-phone"
                                         aria-hidden="true"></i>+1 888-595-2005</a>
                             </li>
 
@@ -104,7 +104,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 my-auto">
-                    <p>Copyright © 2021 writing experts hub. All rights reserved</p>
+                    <p>Made with passion by Silicon Tech Inc</p>
+                    <p>Copyright © 2022 writing experts hub. All rights reserved</p>
                 </div>
                 <div class="col-md-6 my-auto text-right">
                     <a href="terms-and-conditions/">Terms & Condition</a>

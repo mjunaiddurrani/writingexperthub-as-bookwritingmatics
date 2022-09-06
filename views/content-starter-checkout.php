@@ -615,7 +615,7 @@
                                                     <h3 class="text-dark">Descriptor</h3>
                                                     <p> <i> Please note that the descriptor on your billing statement
                                                             will
-                                                            be “8883639727writingexpert” </i></p>
+                                                            be “8885952005writingexpert” </i></p>
                                                     <a href="terms-and-conditions/"> Trems And Conditions</a>
                                                 </div>
                                                 <!-- <div class="trems ml-3">
